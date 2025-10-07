@@ -1,0 +1,7 @@
+{
+  "name": "foo-bar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
